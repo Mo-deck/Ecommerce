@@ -53,7 +53,6 @@ button.normal{
     border: none;
     outline: none;
     transition: 0.2s;
-    background-attachment: fixed;
 }
 
 body{
@@ -283,6 +282,7 @@ padding-bottom: 15px;
     height: 40vh;
     background-size: cover;
     background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 #banner h4{
